@@ -1,0 +1,2 @@
+# Building-and-Deploying-Machine-Learning-Models-using-Gradio-Application
+Customer turnover is a serious issue for many firms, particularly those in the telecommunications sector. Businesses must be able to recognize which customers are most likely to quit in order to retain them and lower their churn rate. In this tutorial, we'll show you how to create a Gradio app that predictions using machine learning.
